@@ -13,6 +13,8 @@
 	<script type="text/javascript"
 		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ea58e2d3bb86934cd33cbd250d4656b6"></script>
 	<script>
+	alert("team1 branch kanghyekoung10")
+	alert("team1 branch kanghyekoung10")
 		$(function() {
 			//1. jsp가 시작하자마자 ajax를 실행해서 json을 받아와서 map을 찍을까?
 			$.ajax({
